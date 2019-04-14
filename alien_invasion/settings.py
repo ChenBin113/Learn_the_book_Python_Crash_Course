@@ -16,7 +16,7 @@ class Settings(object):
 		self.bullet_speed_factor = 3
 
 		# 可以制作大炸弹
-		self.bullet_width = 1000
+		self.bullet_width = 10
 
 		self.bullet_height = 15
 		self.bullet_color = 60, 60, 60
@@ -54,4 +54,4 @@ class Settings(object):
 		self.alien_speed_factor *= self.speedup_scale
 
 		self.alien_points = int(self.alien_points * self.score_scale)
-		# print(self.alien_points)
+	# print(self.alien_points)

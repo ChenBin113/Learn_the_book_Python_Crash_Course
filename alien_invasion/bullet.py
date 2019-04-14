@@ -10,8 +10,7 @@ class Bullet(Sprite):
 		self.screen = screen
 
 		# 初始位置为(0,0)，Rect的四个参数
-		self.rect = pygame.Rect(0, 0, ai_settings.bullet_width,
-		                        ai_settings.bullet_height)
+		self.rect = pygame.Rect(0, 0, ai_settings.bullet_width, ai_settings.bullet_height)
 
 		# 移动到飞船的位置
 		self.rect.centerx = ship.rect.centerx
@@ -28,4 +27,3 @@ class Bullet(Sprite):
 
 	def draw_bullet(self):
 		pygame.draw.rect(self.screen, self.color, self.rect)
-
