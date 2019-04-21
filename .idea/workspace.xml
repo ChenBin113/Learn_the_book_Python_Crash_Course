@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e75cf3a-c1da-4ebd-8720-87380cbc951c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/5【Python编程从入门到实践】.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/5【Python编程从入门到实践】.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/.ipynb_checkpoints/3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/6-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/.ipynb_checkpoints/6-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/.ipynb_checkpoints/8-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/9_class-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/.ipynb_checkpoints/9_class-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/6.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_class.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/9_class.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/alien.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/button.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/game_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/images/alien.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/images/alien.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/images/ship.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/images/ship.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invasion/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12_alien_invasion/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/btc_close_2017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/收盘价折线图 (￥).svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>game_active</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\work_project_python\5【Python编程从入门到实践】\alien_invasion</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chapter10/v10_1_4.py" />
+        <option value="$PROJECT_DIR$/chapter10/pi_digit.txt" />
+        <option value="$PROJECT_DIR$/alien_invasion/tt.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/aaa.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/tttttt.py" />
+        <option value="$PROJECT_DIR$/book/alien.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/button.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/scoreboard.py" />
+        <option value="$PROJECT_DIR$/book/《Python编程》源代码文件/chapter_14/settings.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/images/111.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/images/222.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/alien.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/ttt.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/ship.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/game_stats.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/bullet.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/game_functions.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/hello.py" />
+        <option value="$PROJECT_DIR$/alien_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/demo/t.py" />
+        <option value="$PROJECT_DIR$/demo/mpl_squares.py" />
+        <option value="$PROJECT_DIR$/demo/rw_visual.py" />
+        <option value="$PROJECT_DIR$/demo/rw_visua_run.py" />
+        <option value="$PROJECT_DIR$/love.py" />
+        <option value="$PROJECT_DIR$/demo/random_walk.py" />
+        <option value="$PROJECT_DIR$/v.ipynb" />
+        <option value="$PROJECT_DIR$/v.py" />
+        <option value="$PROJECT_DIR$/demo/scatter_squares.py" />
+        <option value="$PROJECT_DIR$/my_try/v.py" />
+        <option value="$PROJECT_DIR$/my_try/v15-1.py" />
+        <option value="$PROJECT_DIR$/my_try/rw_visual.py" />
+        <option value="$PROJECT_DIR$/pygal/die.py" />
+        <option value="$PROJECT_DIR$/pygal/dir_visual.py" />
+        <option value="$PROJECT_DIR$/chapter15_use_pygal/dir_visual.py" />
+        <option value="$PROJECT_DIR$/chapter16_CSV_JSON/note.md" />
+        <option value="$PROJECT_DIR$/note.md" />
+        <option value="$PROJECT_DIR$/chapter16_CSV_JSON/sitka_weather_07-2014.csv" />
+        <option value="$PROJECT_DIR$/chapter16_CSV_JSON/highs_lows.py" />
+        <option value="$PROJECT_DIR$/chapter16_CSV_JSON/btc_close_2017_download2.py" />
+        <option value="$PROJECT_DIR$/chapter16_CSV_JSON/btc_close_2017.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="5【Python编程从入门到实践】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5【Python编程从入门到实践】" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5【Python编程从入门到实践】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5【Python编程从入门到实践】" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5【Python编程从入门到实践】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5【Python编程从入门到实践】" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter12_alien_invasion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5【Python编程从入门到实践】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5【Python编程从入门到实践】" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter15_use_matplotlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5【Python编程从入门到实践】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5【Python编程从入门到实践】" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter15_use_pygal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5【Python编程从入门到实践】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5【Python编程从入门到实践】" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter16_CSV_JSON" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter16_CSV_JSON" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\chapter16_CSV_JSON" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\my_try" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\demo" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\alien_invasion\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\chapter16_CSV_JSON\v16_1" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\chapter16_CSV_JSON\download" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\chapter1" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】\my_try" />
+      <recent name="F:\work_project_python\5【Python编程从入门到实践】" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.btc_close_2017 (1)">
+    <configuration name="btc_close_2017 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="5【Python编程从入门到实践】" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16_CSV_JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16_CSV_JSON/btc_close_2017.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="btc_close_2017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="5【Python编程从入门到实践】" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16_CSV_JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\work_project_python\5【Python编程从入门到实践】\chapter16_CSV_JSON\download\btc_close_2017_download1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="btc_close_2017_download2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="5【Python编程从入门到实践】" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16_CSV_JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\work_project_python\5【Python编程从入门到实践】\chapter16_CSV_JSON\download\btc_close_2017_download2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dir_visual (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="5【Python编程从入门到实践】" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15_use_pygal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15_use_pygal/dir_visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="highs_lows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="5【Python编程从入门到实践】" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16_CSV_JSON" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\work_project_python\5【Python编程从入门到实践】\chapter16_CSV_JSON\v16_1\highs_lows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.btc_close_2017 (1)" />
+        <item itemvalue="Python.btc_close_2017_download2" />
+        <item itemvalue="Python.btc_close_2017" />
+        <item itemvalue="Python.highs_lows" />
+        <item itemvalue="Python.dir_visual (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e75cf3a-c1da-4ebd-8720-87380cbc951c" name="Default Changelist" comment="" />
+      <created>1554999596341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554999596341</updated>
+      <workItem from="1555432504532" duration="1907000" />
+      <workItem from="1555437273916" duration="325000" />
+      <workItem from="1555479714956" duration="1854000" />
+      <workItem from="1555603165841" duration="1686000" />
+      <workItem from="1555606674185" duration="2000" />
+      <workItem from="1555650177818" duration="1183000" />
+      <workItem from="1555688150105" duration="2766000" />
+      <workItem from="1555693483412" duration="903000" />
+      <workItem from="1555773696563" duration="648000" />
+      <workItem from="1555807758253" duration="15240000" />
+    </task>
+    <task id="LOCAL-00001" summary="可运行版本">
+      <created>1555253001921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555253001921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="可运行版本">
+      <created>1555257554739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555257554739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26514000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23933902" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.24682875" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4295011" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1670282" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973643" weight="0.38828632" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002636" side_tool="true" weight="0.39370933" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="可运行版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="可运行版本" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/5Python$highs_lows.coverage" NAME="highs_lows Coverage Results" MODIFIED="1555857370722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter16_CSV_JSON" />
+    <SUITE FILE_PATH="coverage/5Python$btc_close_2017.coverage" NAME="btc_close_2017 Coverage Results" MODIFIED="1555859202396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter16_CSV_JSON" />
+    <SUITE FILE_PATH="coverage/5Python$btc_close_2017_download2.coverage" NAME="btc_close_2017_download2 Coverage Results" MODIFIED="1555859262657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter16_CSV_JSON" />
+    <SUITE FILE_PATH="coverage/5Python$love.coverage" NAME="love Coverage Results" MODIFIED="1555481981380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5Python$v.coverage" NAME="v Coverage Results" MODIFIED="1555691616742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/5Python$dir_visual__1_.coverage" NAME="dir_visual (1) Coverage Results" MODIFIED="1555837921900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter15_use_pygal" />
+    <SUITE FILE_PATH="coverage/5Python$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1555693265161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_try" />
+    <SUITE FILE_PATH="coverage/5Python$dir_visual.coverage" NAME="dir_visual Coverage Results" MODIFIED="1555834914449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygal" />
+    <SUITE FILE_PATH="coverage/5Python$v15_1.coverage" NAME="v15-1 Coverage Results" MODIFIED="1555692894524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_try" />
+    <SUITE FILE_PATH="coverage/5Python$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1555480039502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alien_invasion" />
+    <SUITE FILE_PATH="coverage/5Python$btc_close_2017__1_.coverage" NAME="btc_close_2017 (1) Coverage Results" MODIFIED="1555860758443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter16_CSV_JSON" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>filename</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book/《Python编程》源代码文件/chapter_14/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/《Python编程》源代码文件/chapter_14/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="164" column="25" selection-start-line="164" selection-start-column="14" selection-end-line="164" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/《Python编程》源代码文件/chapter_14/button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/《Python编程》源代码文件/chapter_14/game_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book/《Python编程》源代码文件/chapter_14/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter12_alien_invasion/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="171" column="23" selection-start-line="171" selection-start-column="23" selection-end-line="171" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter12_alien_invasion/button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter12_alien_invasion/game_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/alien_invasion/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/alien_invasion/hello.py" />
+    <entry file="file://$PROJECT_DIR$/chapter12_alien_invasion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files(x86)/Anaconda/envs/5【Python编程从入门到实践】/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="1735" column="25" lean-forward="true" selection-start-line="1735" selection-start-column="25" selection-end-line="1735" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/find_it.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/love.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files(x86)/Anaconda/envs/5【Python编程从入门到实践】/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="2252" column="8" selection-start-line="2252" selection-start-column="8" selection-end-line="2252" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files(x86)/Anaconda/envs/5【Python编程从入门到实践】/Lib/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="4094" column="58" selection-start-line="4094" selection-start-column="58" selection-end-line="4094" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter12_alien_invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_matplotlib/rw_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v.ipynb" />
+    <entry file="file://$PROJECT_DIR$/v.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files(x86)/Anaconda/envs/5【Python编程从入门到实践】/Lib/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="911" selection-start-line="911" selection-end-line="911" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_try/v15-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_try/rw_visua_run.py" />
+    <entry file="file://F:/Program Files(x86)/Anaconda/envs/5【Python编程从入门到实践】/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="2807" column="6" selection-start-line="2807" selection-start-column="6" selection-end-line="2807" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_try/rw_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="681">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#46#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_matplotlib/squares_plot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_matplotlib/scatter_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_matplotlib/random_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_matplotlib/mpl_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/standardSchemas/xlink.dtd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygal/die_visual.svg```````">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygal/die_visual_2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygal/die_visual.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_pygal/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygal/dice_visual.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_pygal/dice_visual.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15_use_pygal/dir_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files(x86)/pycharm_settings/.PyCharm/system/python_stubs/1196790809/_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-160">
+            <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/btc_close_2017.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77018" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/download/btc_close_2017_urllib.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/download/btc_close_2017_download1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/download/btc_close_2017_download2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/v16_1/highs_lows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/v16_1/sitka_weather_07-2014.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/v16_1/death_valley_2014.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/v16_1/sitka_weather_2014.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/收盘价折线图 (￥).svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16_CSV_JSON/btc_close_2017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
