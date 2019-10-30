@@ -1,3 +1,12 @@
+# chapter_2
+- 字符串使用
+    - title()
+    - upper()
+    - lower()
+    - rstrip() 末尾空白
+    - lstrip() 开头空白
+    - strip() 两端空白
+    
 # 项目总体使用环境
 - Windows 10
 - pycharm 2019.1

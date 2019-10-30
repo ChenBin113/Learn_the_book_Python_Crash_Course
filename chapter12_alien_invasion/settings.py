@@ -5,8 +5,8 @@ class Settings(object):
 
 	def __init__(self):
 		"""初始化游戏的静态设置"""
-		self.screen_width = 1200
-		self.screen_height = 800
+		self.screen_width = 1000
+		self.screen_height = 600
 		self.bg_color = (230, 230, 230)
 
 		self.ship_speed_factor = 1.5
@@ -16,7 +16,7 @@ class Settings(object):
 		self.bullet_speed_factor = 3
 
 		# 可以制作大炸弹
-		self.bullet_width = 10
+		self.bullet_width = 100
 
 		self.bullet_height = 15
 		self.bullet_color = 60, 60, 60
